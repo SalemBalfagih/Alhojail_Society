@@ -1,0 +1,362 @@
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Chat.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_BACK.resources
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_EMP.resources
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_home.resources
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_INFO.resources
+C:\Users\USER\Desktop\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_SETTING.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.xml
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_BACK.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_EMP.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_home.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_INFO.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_SETTING.resources
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_BACK.resources
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_EMP.resources
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_home.resources
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_INFO.resources
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_SETTING.resources
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\bin\Debug\Zen.Barcode.Core.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\bin\Debug\Zen.Barcode.Core.dll
+D:\مشاريع\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.login.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.exe
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.pdb
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.pdb
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\Zen.Barcode.Core.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.xml
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csprojResolveAssemblyReference.cache
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.login.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_BACK.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_EMP.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_home.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_INFO.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_SETTING.resources
+E:\مشاريييع\جمعه يو\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\stdole.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.login.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_BACK.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_EMP.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_home.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_INFO.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_SETTING.resources
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\مشروع موظفين - Copy\OutlookDemo\obj\Debug\OutlookDemo.print.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\AxShockwaveFlashObjects.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.Shared.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\Zen.Barcode.Core.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ShockwaveFlashObjects.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\stdole.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Data.v19.2.xml
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csprojResolveAssemblyReference.cache
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.login.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.print.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_BACK.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_EMP.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_home.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_INFO.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_SETTING.resources
+D:\مشاريع\الحجيل-مشروع موظفين\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.Cache
